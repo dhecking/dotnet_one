@@ -1,0 +1,11 @@
+D:\users\dhecking\github\dhecking\dotnet_one\bin\Debug\netcoreapp2.2\dotnet_one.deps.json
+D:\users\dhecking\github\dhecking\dotnet_one\bin\Debug\netcoreapp2.2\dotnet_one.runtimeconfig.json
+D:\users\dhecking\github\dhecking\dotnet_one\bin\Debug\netcoreapp2.2\dotnet_one.runtimeconfig.dev.json
+D:\users\dhecking\github\dhecking\dotnet_one\bin\Debug\netcoreapp2.2\dotnet_one.dll
+D:\users\dhecking\github\dhecking\dotnet_one\bin\Debug\netcoreapp2.2\dotnet_one.pdb
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.csprojAssemblyReference.cache
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.csproj.CoreCompileInputs.cache
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.AssemblyInfoInputs.cache
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.AssemblyInfo.cs
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.dll
+D:\users\dhecking\github\dhecking\dotnet_one\obj\Debug\netcoreapp2.2\dotnet_one.pdb
